@@ -15,7 +15,7 @@ Compilation of machine learning projects written in R and Python programming lan
 * Then proceeded with the forecasting and validation part of the algorithm. This includes training and testing.
 * Finally, plotted the final output on a 2D graph for better visual representation and future prediction.
 
-# [Project 3: Share Prices Prediction Using Linear Regression]
+# [Project 3: Share Prices Prediction Using Linear Regression](https://github.com/shyammodi11/Data-Analytics-Projects/blob/main/Share%20prices%20prediction%20(Linear%20Regression).ipynb)
 * Implemented linear regression to the shares of a company listed on the stock market.
 * Loaded the dataset in the jupyter notebook, conducted indexing and created new variables for store necessary data.
 * Created a new dataframe and treated the null values to reduce noise in the dataset.
