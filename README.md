@@ -8,9 +8,9 @@ Compilation of machine learning projects written in R and Python programming lan
 * After its execution, I found the PCA object using the function summary().
 * Plotted the components of PCA to give a much better visual representation to look at the data.
 
-# [Project 2: Sales Prediction And Analysis Using Time Series Analysis]
+# [Project 2: Sales Prediction And Analysis Using Time Series Analysis](https://github.com/shyammodi11/Data-Analytics-Projects/blob/main/Sales%20prediction%20using%20ARIMA.ipynb)
 * This project presents uni-and multi-variate analysis techniques applied to plug research forecasting. 
 * First the dataset was loaded in the jupyter notebook followed by basic indexing and visualization.  
 * Then presented the essential statistical analysis, starting with univariate ARIMA models. 
 * Then proceeded with the forecasting and validation part of the algorithm. This includes training and testing.
-* Finally, plotted the final output on a 2D graph and concluded the results.
+* Finally, plotted the final output on a 2D graph for better visual representation and future prediction.
