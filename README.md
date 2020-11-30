@@ -14,3 +14,10 @@ Compilation of machine learning projects written in R and Python programming lan
 * Then presented the essential statistical analysis, starting with univariate ARIMA models. 
 * Then proceeded with the forecasting and validation part of the algorithm. This includes training and testing.
 * Finally, plotted the final output on a 2D graph for better visual representation and future prediction.
+
+# [Project 3: Share Prices Prediction Using Linear Regression]
+* Implemented linear regression to the shares of a company listed on the stock market.
+* Loaded the dataset in the jupyter notebook, conducted indexing and created new variables for store necessary data.
+* Created a new dataframe and treated the null values to reduce noise in the dataset.
+* Started the implementation of linear regression i.e. training and testing.
+* Plotted the known and forecasted points on a 2D graph of that companies stock prices.
