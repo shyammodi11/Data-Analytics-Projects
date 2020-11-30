@@ -1,7 +1,7 @@
 # Data-Analytics-Projects
 Compilation of machine learning projects written in R and Python programming languages respectively
 
-# Iris dataset analysis Using PCA
+# Project 1: Iris dataset analysis Using PCA
 * Took a set of data called “Iris” which already exists in RStudio. Iris data consists of 150 observations and 4 features. 
 * Used libraries like biplot, screenplot, ggfortify etc. 
 * Used the function prcomp(), I proceeded to execute the PCA. 
