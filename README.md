@@ -36,6 +36,6 @@ Compilation of machine learning projects written in R and Python programming lan
 * Implemented Logistic Regression to identify fraud credit card transactions as a binary classification problem.
 * Loaded the dataset in the jupyter notebook, conducted indexing and created new variables for store necessary data.
 * Used inbuild Pandas functions to understand description of the columns and their datatypes.
-* Created a new dataframe and checked for null values. Conducted sampling technique to improve the imbalanced data.
+* Created a new dataframe and checked for null values. Conducted sampling techniques to transform the imbalanced data.
 * Started the implementation of Logistic Regression i.e. training and testing.
 * Generated evaluation metrics like accuracy score, confusion matrix and classification report.
